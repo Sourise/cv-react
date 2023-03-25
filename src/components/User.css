@@ -1,0 +1,19 @@
+.user {
+    position: relative;
+    text-align: center;
+}
+
+.user_infos {
+    text-align: left;
+    padding: var(--spacing-3) 0 var(--spacing-1) 0;
+}
+
+.user_info {
+    display: flex;
+}
+
+.user_info svg {
+    font-size: 19px;
+    color: var(--icon-color);
+    margin-right: 1rem;
+}
