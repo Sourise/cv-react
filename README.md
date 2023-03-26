@@ -1,4 +1,4 @@
 # cv-react
-My resume in react.
+My resume. (React)
 
 Run this application using npm start.
